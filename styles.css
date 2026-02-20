@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'CustomFont';
-    src: url('asset/va.ttf') format('truetype');
+    src: url('va.ttf') format('truetype');
 }
 
 :root {
@@ -332,4 +332,5 @@ body {
     .site-title { font-size: 42px; text-align: center; }
     .welcome-text { text-align: center; }
     .links-carousel .text-item { min-width: 90vw; }
+
 }
